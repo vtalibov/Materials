@@ -1,1 +1,1 @@
-Curves and simulations from a talk in SciLifeLab symposium [Kinase Drug Discovery – Strategies for Success](https://www.scilifelab.se/event/kinase-drug-discovery-strategies-for-success/), **"Development of kinase biochemical assays: scrutinizing the system for a higher value"**
+Curves and simulations from a talk at SciLifeLab symposium [Kinase Drug Discovery – Strategies for Success](https://www.scilifelab.se/event/kinase-drug-discovery-strategies-for-success/), **"Development of kinase biochemical assays: scrutinizing the system for a higher value"**
